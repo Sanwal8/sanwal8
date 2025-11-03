@@ -49,12 +49,11 @@ A planning-time digital twin framework for evaluating robot escort policies in w
 
 ---
 
-## 🎯 Current Focus (November 2025)
+## 🎯 Current Focus (2025)
 
-🔬 Benchmarking OpenSlideFM foundation model for Nature-grade publication  
-📊 Finalizing IJPR warehouse robotics paper revisions  
+🔬 Benchmarking OpenSlideFM foundation model.    
 💊 Developing temporal biomarker discovery framework  
-🏥 Deploying ICU early-warning system with alert-budget guardrails
+
 
 ---
 
