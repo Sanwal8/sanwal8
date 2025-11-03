@@ -2,7 +2,7 @@
 
 I train deep neural nets at scale.
 
-PhD Student @ Shanghai Jiao Tong University | Advised by Prof. Wei Qin
+PhD (Artificial Intelligance) @ Shanghai Jiao Tong University | Advised by Prof. Wei Qin
 
 ---
 
