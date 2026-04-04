@@ -2,22 +2,8 @@
 
 I train deep neural nets at scale.
 
-PhD (Artificial Intelligance) @ Shanghai Jiao Tong University | Advised by Assoc. Prof. Wei Qin
+PhD (Artificial Intelligance) @ Shanghai Jiao Tong University | Advised by Prof. Wei Qin
 
----
-
-## 🚀 Featured Projects
-
-### 🔬 [OpenSlideFM: Efficient Foundation Model for Computational Pathology](https://github.com/Sjtu-Fuxilab/onco-sentry)
-A dual-scale transformer foundation model that balances performance with accessibility. Pre-trained on 20,000 TCGA slides across 31 cancer types using self-supervised learning, achieving 81.21% accuracy on pan-cancer classification with only 35M parameters. Deployable on consumer GPUs (RTX 4090, 24GB) versus datacenter requirements of existing models, democratizing foundation model access for resource-constrained institutions. Manuscript in preparation for Nature family journals.
-
-### 🏥 [Sentinel-API: Staffable ICU Early-Warning System](https://github.com/Sjtu-Fuxilab/Sentinel-API)
-A multi-horizon mortality prediction system with calibrated multi-center validation and alert-budget guardrails. Maintains strong discrimination and tight calibration across hospitals and time horizons with resource-aware deployment through workload-constrained operating points. Translates threshold choices into alerts per 100 admissions, maps to clinician review time and net monetary benefit, enabling monitored roll-out ready for governance approval.
-
-### 🤖 [Guard-Constrained Human-Robot Collaboration](https://github.com/Sjtu-Fuxilab/Guard-Constrained-HRC)
-A planning-time digital twin framework for evaluating robot escort policies in warehouse operations, calibrated against 8,535 production waves (MAPE ≈ 3%). Enforces iso-time tolerance (ε = 0.5-2.0%) and protective-separation-distance constraints, achieving −1.8% to −3.1% median ergonomic improvement with 48.9-62.2% adoption rate. Includes bootstrap uncertainty quantification (800 resamples) and fairness stratification suitable for safety governance. Under review at International Journal of Production Research.
-
----
 
 ## 🛠 Tech Stack
 
