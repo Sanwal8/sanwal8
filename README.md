@@ -35,14 +35,6 @@ PhD (Artificial Intelligance) @ Shanghai Jiao Tong University | Advised by Prof.
 
 ---
 
-## 🎯 Current Focus (2025)
-
-🔬 Benchmarking OpenSlideFM foundation model.    
-💊 Developing temporal biomarker discovery framework  
-
-
----
-
 ## 🤝 Open Science
 
 Committed to reproducible research:
