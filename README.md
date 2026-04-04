@@ -1,8 +1,6 @@
 # Hi there, I'm Sanwal Zafar 👋
 
-I train deep neural nets at scale.
-
-PhD (Artificial Intelligance) @ Shanghai Jiao Tong University | Advised by Prof. Wei Qin
+PhD @ Shanghai Jiao Tong University | Advised by Prof. Wei Qin
 
 
 ## 🛠 Tech Stack
