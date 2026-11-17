@@ -1,6 +1,6 @@
 # Hi there, I'm Sanwal Zafar 👋
 
-PhD @ Shanghai Jiao Tong University | Advised by Prof. Wei Qin
+Postdoc @ Cedars-Sinai Medical Centre 
 
 
 ## 🛠 Tech Stack
@@ -47,7 +47,7 @@ Open to collaborations in computational pathology, clinical AI, and human-robot 
 
 ## 📫 Contact
 
-📧 sanwalzafar@sjtu.edu.cn
+📧 sanwal.ahmadzafar@csmc.edu
 
 Open to collaborations in computational pathology and clinical AI.
 
